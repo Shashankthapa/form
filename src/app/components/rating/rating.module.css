@@ -1,0 +1,7 @@
+.star {
+  color: rgb(229, 229, 248);
+}
+
+.star:hover {
+  color: rgb(113, 113, 212);
+}
